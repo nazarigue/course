@@ -30,10 +30,10 @@ XPATH is the method, highly used in web scraping, to get content inside HTML tag
 Get ALL elements XPATH
 |XPATH|Purpose|
 |---|---|
-|```//h1```|find all <h1> tags|
-|```//h2```|find all <h2> tags|
-|```//h3```|find all <h3> tags|
-|```//ul```|find all <ul> tags|
+|```//h1```|find all ```<h1>``` tags|
+|```//h2```|find all ```<h2>``` tags|
+|```//h3```|find all ```<h3>``` tags|
+|```//ul```|find all ```<ul>``` tags|
 
 
 
