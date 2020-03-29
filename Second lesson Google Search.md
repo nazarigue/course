@@ -40,7 +40,7 @@ Tons of privace companies listed.
 
 Next step, we have to search for designers. 
 
-**site:**careers.*.com  inurl: designer
+site:careers.*.com  inurl: designer
 
 ![](https://github.com/nazarigue/course/blob/master/images/General%20Internet%20Course%20Syllabus/Untitled%206.png)
 
