@@ -20,13 +20,13 @@ Next step, we have to search for designers.
 
 **site:**careers.*.com  inurl: designer
 
-![General%20Internet%20Course%20Syllabus/Untitled%206.png](General%20Internet%20Course%20Syllabus/Untitled%206.png)
+![](https://github.com/nazarigue/course/blob/master/images/General%20Internet%20Course%20Syllabus/Untitled%206.png)
 
 And we have all designer jobs!
 
 Add dates filter to it! We want last month results so we are up-to-date!
 
-![General%20Internet%20Course%20Syllabus/Untitled%207.png](General%20Internet%20Course%20Syllabus/Untitled%207.png)
+![](https://github.com/nazarigue/course/blob/master/images/General%20Internet%20Course%20Syllabus/Untitled%207.png)
 
 Here we go!
 
@@ -34,6 +34,6 @@ Estonian version.
 
 **site:.ee intitle:töö disainer**
 
-![General%20Internet%20Course%20Syllabus/Untitled%208.png](General%20Internet%20Course%20Syllabus/Untitled%208.png)
+![](https://github.com/nazarigue/course/blob/master/images/General%20Internet%20Course%20Syllabus/Untitled%207.png)
 
 # **YOU NEED TO BECOME GREAT AT SEARCH. KNOWLEDGE IS THE REAL POWER.**
