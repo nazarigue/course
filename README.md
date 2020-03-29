@@ -1,4 +1,4 @@
-# GoAcademy Growth course
+# GoAcademy Growth Course
 
 # 📜 Course Description
 
