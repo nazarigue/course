@@ -35,7 +35,11 @@ Get ALL elements XPATH
 |```//h3```|find all ```<h3>``` tags|
 |```//ul```|find all ```<ul>``` tags|
 
-
-
+Go deeper in path
+|XPATH|Purpose|
+|---|---|
+|```//h1/a```|find all ```<h1>``` with ```<a>``` anchor tag|
+|```//h1[@class="column"]```|find all ```<h1>``` with ```<class>``` column tag|
+|```//*[@id="column"]']```|find all elements with ```<id>```equals column tag|
 
 
