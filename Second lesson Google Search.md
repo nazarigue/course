@@ -12,7 +12,7 @@ Find me website with PATTERNS like careers.*.com that can be anything inside *.
 
 Look at the results:
 
-[images/General Internet Course Syllabus/Untitled2.png](..images/General Internet Course Syllabus/Untitled2.png)
+![](https://github.com/nazarigue/course/blob/master/images/General%20Internet%20Course%20Syllabus/Untitled%202.png)
 
 Tons of privace companies listed.
 
