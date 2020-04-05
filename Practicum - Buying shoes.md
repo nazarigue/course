@@ -23,5 +23,7 @@ Look as well if you can find any SKU or identificator the the model.
 
 Let's inspect the results.
 
-First:
+First ```site:.ee Nike Air Zoom Pegasus 36``` results:
 
+
+rademar.ee › toode › nike-air-zoom-pegasus-36-premium-rise	https://rademar.ee/toode/nike-air-zoom-pegasus-36-premium-rise
